@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MeituanRedenvelope)
 
 ## 1. 本项目优点
-- 部署简单,支持腾讯云函数
+- 部署简单,支持本地，青龙，腾讯云函数等部署方式
 - 简化参数设置
 - 优化代码
 - 自动遍历全国主要城市的红包池
