@@ -37,7 +37,7 @@
 
 ## 启动设置
 
-定时设置建议为`0 11,14,17,21,0,1,2,3 * * *`
+定时设置建议为`0 11,14,15,16,17,21,0,1,2,3 * * *`
 
 # Thanks 
 [Vonalien](https://github.com/Vonalien/meituan-shenquan)，[Vonalier](https://github.com/Vonalier/meituan-shenquan) 等脚本
